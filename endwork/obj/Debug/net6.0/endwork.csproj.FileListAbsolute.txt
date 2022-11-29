@@ -1,0 +1,15 @@
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\bin\Debug\net6.0\endwork.exe
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\bin\Debug\net6.0\endwork.deps.json
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\bin\Debug\net6.0\endwork.runtimeconfig.json
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\bin\Debug\net6.0\endwork.dll
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\bin\Debug\net6.0\endwork.pdb
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.csproj.AssemblyReference.cache
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.AssemblyInfoInputs.cache
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.AssemblyInfo.cs
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.csproj.CoreCompileInputs.cache
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.dll
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\refint\endwork.dll
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.pdb
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\endwork.genruntimeconfig.cache
+C:\Users\llbpt\OneDrive\Рабочий стол\git_p\endwork\obj\Debug\net6.0\ref\endwork.dll
