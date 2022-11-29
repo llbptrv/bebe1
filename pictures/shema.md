@@ -1,1 +1,1 @@
-![блок-схема](123.png)
+![блок-схема](https://vk.com/doc238444994_652855587?hash=fRA6dBXhskr1w6MrRCTDpq3ZSAwWb7iIhU7zCMMfcRX&dl=x5iF0POBsPRqjMZU46zZSwxxrZ6amkYDKa0s9rLtZ4o)
