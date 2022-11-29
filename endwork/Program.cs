@@ -1,4 +1,5 @@
-﻿string[] days = { "Sun", "22", "Monday", "Tuersday", "Wednesday", "Thirsday", "Fri", "Saturday" };
+﻿//программа
+string[] days = { "Sun", "22", "Monday", "Tuersday", "Wednesday", "Thirsday", "Fri", "Saturday" };
 Console.WriteLine("изначальный массив: ");
 for (int i = 0; i < days.Length; i++)
 {
